@@ -1,0 +1,22 @@
+# KiCad project artifacts
+**/*-backups/
+**/*.kicad_pro.lck
+**/*.kicad_pcb-bak
+**/*.kicad_sch-bak
+**/*.kicad_prl-bak
+**/*.bak
+**/*.bck
+**/*.tmp
+**/*.swp
+**/.cache/
+.history/
+.venv/
+.step/
+
+# OS/editor artifacts
+Thumbs.db
+Desktop.ini
+*.user
+*.orig
+**/*freerouting*.dsn
+**/untitled.kicad_sch

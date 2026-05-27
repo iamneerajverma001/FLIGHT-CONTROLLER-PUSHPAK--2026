@@ -1,0 +1,45 @@
+Reference	Qty	Value	DNP	Exclude from BOM	Exclude from Board	Footprint	Datasheet
+C1,C27,C30	3	2u2				Capacitor_SMD:C_0603_1608Metric	
+C2,C4,C6,C7,C9,C10,C14,C15,C16,C17,C21,C26,C28,C31,C32,C36	16	100n				Capacitor_SMD:C_0402_1005Metric	
+C3,C29	2	10n				Capacitor_SMD:C_0402_1005Metric	
+C13	1	10u				Capacitor_SMD:C_0603_1608Metric	
+C18	1	1u				Capacitor_SMD:C_0402_1005Metric	
+C20	1	4u7				Capacitor_SMD:C_0603_1608Metric	
+C22,C23	2	35p				Capacitor_SMD:C_0402_1005Metric	
+C33	1	4700n				Capacitor_SMD:C_0402_1005Metric	
+C37	1	10u2				Capacitor_SMD:C_0603_1608Metric	
+D1	1	GRN				LED_SMD:LED_0603_1608Metric	
+D2	1	WS2812B				LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm	https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
+D7,D8	2	B120-E3				Diode_SMD:D_0603_1608Metric	http://www.vishay.com/docs/88946/b120.pdf
+F3	1	Fuse				Fuse:Fuse_1206_3216Metric	
+FB1	1	600R FerriteBead				Inductor_SMD:L_0603_1608Metric	
+H1,H2,H3,H4	4	MountingHole				MountingHole:MountingHole_2.2mm_M2	
+J1,J28	2	Conn_01x03				Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical	
+J8	1	Conn_01x01				Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical	
+J11	1	SWD				Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical	
+J16	1	Conn_01x06_MountingPin				Connector_JST:JST_SH_SM06B-SRSS-TB_1x06-1MP_P1.00mm_Horizontal	
+J19	1	RADIO				Connector_JST:JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical	
+J21	1	Conn_01x08_MountingPin				Connector_JST:JST_SH_BM08B-SRSS-TB_1x08-1MP_P1.00mm_Vertical	
+J22	1	Conn_01x02_Pin				Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical	
+J23	1	USB_IN				Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal	https://www.usb.org/sites/default/files/documents/usb_type-c.zip
+J24	1	Conn_01x03_Pin				Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical	
+J25	1	Conn_01x04_Pin				Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical	
+J27	1	Conn_01x04_MountingPin				Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal	
+L1	1	10u				Inductor_SMD:L_APV_ANR252012	
+MT1	1	ICM-42688-P				EasyEDA:LGA-14_L3.0-W2.5-P0.50-BL	
+Q1,Q2	2	BSS138				Package_TO_SOT_SMD:SOT-23	https://www.onsemi.com/pub/Collateral/BSS138-D.PDF
+R1,R16,R17	3	10K				Resistor_SMD:R_0402_1005Metric	
+R3	1	100				Resistor_SMD:R_0402_1005Metric	
+R5,R6,R7,R8,R10,R13	6	4K7				Resistor_SMD:R_0402_1005Metric	
+R9,R14	2	100K				Resistor_SMD:R_0402_1005Metric	
+R11,R12	2	5.1K				Resistor_SMD:R_0402_1005Metric	
+R15	1	13.3K				Resistor_SMD:R_0402_1005Metric	
+SW2	1	SW_SPDT				Button_Switch_SMD:SW_SPDT_PCM12	
+SW3	1	SW_Push				Button_Switch_SMD:SW_Push_1TS009xxxx-xxxx-xxxx_6x6x5mm	
+U1	1	STM32F446RETx				Package_QFP:LQFP-64_10x10mm_P0.5mm	https://www.st.com/resource/en/datasheet/stm32f446re.pdf
+U2	1	TPS7A20xxxDBV				Package_TO_SOT_SMD:SOT-23-5	https://www.ti.com/lit/ds/symlink/tps7a20.pdf
+U3	1	W25Q128JVS				Package_SO:SOIC-8_5.3x5.3mm_P1.27mm	https://www.winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf
+U4	1	3V3				Package_TO_SOT_SMD:SOT-23-5	https://www.exar.com/content/document.ashx?id=22106&languageid=1033&type=Datasheet&partnumber=SPX3819&filename=SPX3819.pdf&part=SPX3819
+U6	1	BMP390				Snapeda:10LGA_2X2X0p75_BOS-L	BMP390
+U7	1	TPS54202DDC				Package_TO_SOT_SMD:SOT-23-6	http://www.ti.com/lit/ds/symlink/tps54202.pdf
+Y1	1	Crystal_GND24				Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm	
