@@ -5,7 +5,7 @@
 ![License SamacSys](https://img.shields.io/badge/License-SamacSys-lightgrey)
 
 [Download PCB ZIP](https://github.com/iamneerajverma001/FLIGHT-CONTROLLER-PUSHPAK--2026/archive/refs/heads/main.zip) · One-click download
-[Open Portfolio App](https://codesandbox.io/p/sandbox/flight-controller-pushpak-2026-cv6gnv) · One-click live demo
+[Open Portfolio App](https://cv6gnv.csb.app) · One-click interactive project summary
 
 Quick links: [Visuals](#visuals) | [System overview](#system-overview) | [Core specs](#core-hardware-specifications) | [Block diagram](#block-diagram) | [Manufacturing](#manufacturing) | [Architecture](#architecture-deep-dive)
 
