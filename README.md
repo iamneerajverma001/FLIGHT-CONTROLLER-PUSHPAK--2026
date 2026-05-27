@@ -26,7 +26,8 @@ Pushpak FCV3 is a 36x36mm, 4-layer, noise-optimized flight controller built for 
 | Architecture deep dive | [docs/HARDWARE_ARCHITECTURE.md](docs/HARDWARE_ARCHITECTURE.md) |
 | System overview graphic | [docs/system_overview.png](docs/system_overview.png) |
 | 3D model (VRML) | [outputs/FCV3 project.wrl](outputs/FCV3%20project.wrl) |
-| Portfolio web app | [docs/PORTFOLIO_APP.md](docs/PORTFOLIO_APP.md) |
+| Portfolio web app | [Open Portfolio App](https://cv6gnv.csb.app) |
+ 
 
 ## 3D model
 - Board model (VRML): [outputs/FCV3 project.wrl](outputs/FCV3%20project.wrl)
