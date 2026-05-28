@@ -1,4 +1,4 @@
-# Pushpak Flight Controller (FCV1)
+# Pushpak Flight Controller (FCV3)
 
 ![KiCad 8](https://img.shields.io/badge/KiCad-8-blue)
 ![MCU STM32](https://img.shields.io/badge/MCU-STM32-success)
